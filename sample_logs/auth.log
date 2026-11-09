@@ -1,0 +1,32 @@
+Nov  3 09:00:00 lab-ubuntu sshd[1409]: Accepted publickey for analyst from 10.0.2.15 port 43648 ssh2
+Nov  3 09:17:00 lab-ubuntu sshd[5012]: Accepted publickey for analyst from 10.0.2.15 port 49012 ssh2
+Nov  3 09:34:00 lab-ubuntu sshd[3286]: Accepted publickey for analyst from 10.0.2.15 port 47314 ssh2
+Nov  3 09:40:00 lab-ubuntu sshd[2535]: Failed password for analyst from 10.0.2.15 port 51234 ssh2
+Nov  3 09:51:00 lab-ubuntu sshd[9935]: Accepted publickey for analyst from 10.0.2.15 port 43358 ssh2
+Nov  3 10:05:00 lab-ubuntu sshd[4582]: Failed password for root from 203.0.113.45 port 50000 ssh2
+Nov  3 10:05:07 lab-ubuntu sshd[4811]: Failed password for invalid user admin from 203.0.113.45 port 50001 ssh2
+Nov  3 10:05:14 lab-ubuntu sshd[9279]: Failed password for root from 203.0.113.45 port 50002 ssh2
+Nov  3 10:05:21 lab-ubuntu sshd[1434]: Failed password for invalid user ubuntu from 203.0.113.45 port 50003 ssh2
+Nov  3 10:05:28 lab-ubuntu sshd[4257]: Failed password for invalid user test from 203.0.113.45 port 50004 ssh2
+Nov  3 10:05:35 lab-ubuntu sshd[9928]: Failed password for root from 203.0.113.45 port 50005 ssh2
+Nov  3 10:05:42 lab-ubuntu sshd[7873]: Failed password for invalid user admin from 203.0.113.45 port 50006 ssh2
+Nov  3 10:05:49 lab-ubuntu sshd[4611]: Failed password for invalid user guest from 203.0.113.45 port 50007 ssh2
+Nov  3 10:05:56 lab-ubuntu sshd[8359]: Failed password for root from 203.0.113.45 port 50008 ssh2
+Nov  3 10:06:03 lab-ubuntu sshd[5557]: Failed password for labadmin from 203.0.113.45 port 50009 ssh2
+Nov  3 10:06:10 lab-ubuntu sshd[1106]: Failed password for labadmin from 203.0.113.45 port 50010 ssh2
+Nov  3 10:06:17 lab-ubuntu sshd[3615]: Failed password for labadmin from 203.0.113.45 port 50011 ssh2
+Nov  3 10:06:27 lab-ubuntu sshd[7924]: Accepted password for labadmin from 203.0.113.45 port 50013 ssh2
+Nov  3 10:08:00 lab-ubuntu sshd[7912]: Accepted publickey for analyst from 10.0.2.15 port 42848 ssh2
+Nov  3 10:25:00 lab-ubuntu sshd[1488]: Accepted publickey for analyst from 10.0.2.15 port 41041 ssh2
+Nov  3 11:00:00 lab-ubuntu sshd[6574]: Failed password for root from 198.51.100.77 port 41000 ssh2
+Nov  3 11:10:00 lab-ubuntu sshd[5552]: Failed password for root from 198.51.100.77 port 41001 ssh2
+Nov  3 11:20:00 lab-ubuntu sshd[3547]: Failed password for root from 198.51.100.77 port 41002 ssh2
+Nov  3 11:30:00 lab-ubuntu sshd[4527]: Failed password for root from 198.51.100.77 port 41003 ssh2
+Nov  3 12:12:00 lab-ubuntu sshd[6514]: Failed password for invalid user oracle from 203.0.113.200 port 42000 ssh2
+Nov  3 12:12:05 lab-ubuntu sshd[2674]: Failed password for invalid user oracle from 203.0.113.200 port 42001 ssh2
+Nov  3 12:12:10 lab-ubuntu sshd[2519]: Failed password for invalid user oracle from 203.0.113.200 port 42002 ssh2
+Nov  3 12:12:15 lab-ubuntu sshd[7224]: Failed password for invalid user oracle from 203.0.113.200 port 42003 ssh2
+Nov  3 12:12:20 lab-ubuntu sshd[2584]: Failed password for invalid user oracle from 203.0.113.200 port 42004 ssh2
+Nov  3 12:12:25 lab-ubuntu sshd[6881]: Failed password for invalid user oracle from 203.0.113.200 port 42005 ssh2
+Nov  3 12:12:30 lab-ubuntu sshd[6635]: Failed password for invalid user oracle from 203.0.113.200 port 42006 ssh2
+Nov  3 12:12:35 lab-ubuntu sshd[5333]: Failed password for invalid user oracle from 203.0.113.200 port 42007 ssh2
